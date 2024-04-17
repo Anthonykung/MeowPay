@@ -1,0 +1,9 @@
+[submodule "meowpay-discord"]
+	path = meowpay-discord
+	url = https://github.com/Anthonykung/meowpay-discord.git
+[submodule "meowpay-server"]
+	path = meowpay-server
+	url = https://github.com/Anthonykung/meowpay-server.git
+[submodule "meowpay-expo"]
+	path = meowpay-expo
+	url = https://github.com/Anthonykung/meowpay-expo.git
